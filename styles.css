@@ -46,8 +46,9 @@ hr {
   margin: auto;
 }
 p.intro {
-  padding-right: 200px;
-  padding-left: 200px;
+  text-align: left;
+  padding-right: 15%;
+  padding-left: 15%;
 }
 .middle-container {
 margin-top: 50px;
