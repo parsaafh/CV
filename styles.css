@@ -44,6 +44,8 @@ hr {
 .intro {
   width: 40%
   margin: auto;
+  padding-right: 200px;
+  padding-left: 200px;
 }
 .middle-container {
 margin-top: 50px;
